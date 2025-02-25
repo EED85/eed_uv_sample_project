@@ -23,7 +23,7 @@ Editable project location: C:\dev\github\EED85\eed_uv_sample_project
 Requires:
 Required-by:
 
-$ C:/dev/github/EED85/eed_uv_sample_project/.venv/Scripts/python.exe c:/dev/github/EED85/eed_uv_sample_project/main.py
+$ C:/dev/github/EED85/eed_uv_sample_project/.venv/Scripts/python.exe c:/dev/github/EED85/eed_uv_sample_project/eed_uv_sample_project/main.py
 Traceback (most recent call last):
   File "c:\dev\github\EED85\eed_uv_sample_project\main.py", line 1, in <module>
     import eed_uv_sample_project
